@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Housing Data Analysis by Jue Gong", layout="wide")
 
-st.title("房屋数据可视化分析")
+st.title("房屋数据可视化分析 by Jue Gongs")
 
 df=pd.read_csv('housing.csv')
 
